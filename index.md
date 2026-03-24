@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+1st blog: Welcome to my cool blog!
 ---
